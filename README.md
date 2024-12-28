@@ -15,18 +15,6 @@ Welcome to my GitHub profile! I'm a passionate web developer with a strong found
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wassimoucouc&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wassimoucouc&theme=radical&hide_border=true" alt="GitHub Streak">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassimoucouc&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-</p>
-
-
----
 
 
 
